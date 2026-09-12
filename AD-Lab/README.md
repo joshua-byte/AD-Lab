@@ -32,7 +32,7 @@ A beginner-friendly hands-on Active Directory security lab documenting enumerati
 AD-Lab/
 ├── README.md
 ├── reports/
-│   └── AD_Lab_Beginner_Writeup.docx
+│   └── AD_Writeup.docx
 ├── evidence/
 │   ├── ldap/
 │   ├── smb/
