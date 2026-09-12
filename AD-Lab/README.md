@@ -1,6 +1,6 @@
 # Active Directory VAPT Lab
 
-A beginner-friendly hands-on Active Directory security lab documenting enumeration from the perspective of a low-privileged domain user.
+Hands-on Active Directory security lab documenting enumeration from the perspective of a low-privileged domain user.
 
 ## Lab
 
